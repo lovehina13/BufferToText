@@ -2,6 +2,7 @@
 #include <iomanip>
 #include <iostream>
 #include <sstream>
+#include <string>
 
 bool equals(const double& a, const double& b, const int& precision)
 {

@@ -1,5 +1,7 @@
 #include <cstdint>
+#include <cstdlib>
 #include <iomanip>
+#include <iostream>
 #include <sstream>
 #include <string>
 
@@ -40,9 +42,6 @@ const std::string bufferToText(const uint8_t* data, const size_t size)
     }
     return ss.str();
 }
-
-#include <cstdlib>
-#include <iostream>
 
 int main()
 {
