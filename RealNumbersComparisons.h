@@ -1,3 +1,10 @@
+//==============================================================================
+// Name        : RealNumbersComparisons.h
+// Author      : Alexis Foerster (alexis.foerster@gmail.com)
+// Version     : 1.0.0 (06/02/2020)
+// Description : Header file of the real numbers comparisons functions
+//==============================================================================
+
 #ifndef REALNUMBERSCOMPARISONS_H
 #define REALNUMBERSCOMPARISONS_H
 

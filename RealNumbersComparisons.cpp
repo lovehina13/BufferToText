@@ -1,3 +1,12 @@
+//==============================================================================
+// Name        : RealNumbersComparisons.cpp
+// Author      : Alexis Foerster (alexis.foerster@gmail.com)
+// Version     : 1.0.0 (06/02/2020)
+// Description : Source file of the real numbers comparisons functions
+//==============================================================================
+
+#include "RealNumbersComparisons.h"
+
 #include <iomanip>
 #include <sstream>
 
