@@ -8,4 +8,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_library(CppTools SHARED BufferTextConversions.cpp RealNumbersComparisons.cpp)
 
 install(TARGETS CppTools DESTINATION lib)
-install(FILES BufferTextConversions.h RealNumbersComparisons.h DESTINATION include/CppTools)
+install(FILES Bimap.h BufferTextConversions.h RealNumbersComparisons.h DESTINATION include/CppTools)
